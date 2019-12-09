@@ -1,31 +1,15 @@
-# Isometric Grids
+# Oluwapelumi Adeyemi's Portfolio website
+I create simple and functional interfaces that serve its operational purpose, providing an easy experience for users and also not lack in art/beauty. I am a meticulous product designer who specializes in user interface and interaction design (both mobile and web). Using proven user-centered processes, My expertise sits comfortably at the intersection of UX and design.
 
-Some experimental decorative and interactive isometric and 3D grids.
-
-[Article on Codrops](http://tympanus.net/codrops/?p=27094)
-
-[Demo](http://tympanus.net/Development/IsometricGrids/)
-
-This demo is sponsored by [PageCloud](https://goo.gl/74TS2t).
-
-## License
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: [License](http://tympanus.net/codrops/licensing/)
+other portfolios
+[Toptal](https://www.toptal.com/designers/resume/oluwapelumi-adeyemi#)
+[Dribbble](https://dribbble.com/p31umi)
+[Behance](https://www.behance.net/PelumiAdeyemi)
 
 ## Credits
-
 [Masonry](http://masonry.desandro.com/) by David DeSandro.
-
 [Font Awesome](https://fortawesome.github.io/Font-Awesome/) created by [Dave Gandy](https://twitter.com/davegandy). License: [Font Awesome license information](http://fontawesome.io/license).
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2016](http://www.codrops.com)
-
+[Article on Codrops](http://tympanus.net/codrops/?p=27094)
 
 
 

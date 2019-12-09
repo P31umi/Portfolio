@@ -1,12 +1,8 @@
 @font-face {
 	font-weight: normal;
 	font-style: normal;
-	font-family: 'pelumiicons';
-	src:url('../fonts/pelumiicons/pelumiicons.eot');
-	src:url('../fonts/pelumiicons/pelumiicons.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/pelumiicons/pelumiicons.woff') format('woff'),
-		url('../fonts/pelumiicons/pelumiicons.ttf') format('truetype'),
-		url('../fonts/pelumiicons/pelumiicons.svg#pelumiicons') format('svg');
+	font-family: 'Montserrat', sans-serif;
+	src:url('https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap');
 }
 
 *, *::after, *::before { -webkit-box-sizing: border-box; box-sizing: border-box; }
@@ -14,8 +10,8 @@
 .clearfix::after { clear: both; }
 
 body {
-	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #D4D2E0;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
 	background: #141715;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;

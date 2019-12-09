@@ -113,8 +113,8 @@ body {
 /* All individual isometric grid layouts (static and scrollable) */
 .isolayer--scroll1 {
 	width: 70vw;
-	max-width: 1200px;
-	height: calc(100vh - 280px);
+	max-width: 1500px;
+	height: calc(100vh - 210px);
 }
 
 .isolayer--scroll1 .grid__item {
