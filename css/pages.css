@@ -9,6 +9,11 @@
 .clearfix::before, .clearfix::after {display: table;  content: ''; }
 .clearfix::after { clear: both; }
 
+html{
+    scroll-behavior: smooth;
+    animation: all 0.3s ease-in;
+}
+
 body {
 	font-family: 'Montserrat', sans-serif;
 	color: #000000;
@@ -116,6 +121,14 @@ article h4{
     line-height: 1.58;
     letter-spacing: -0.004em;
     opacity: 0.6;
+}
+
+.back-to-top{
+    text-align: center;
+    position: relative;
+    display: block;
+    text-decoration: underline;
+    font-size: 1.5rem;
 }
 
 
