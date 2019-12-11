@@ -6,10 +6,10 @@ I create simple and functional interfaces that serve its operational purpose, pr
 - Run `browser-sync start --server --files "*.html, pages/*.html, css/*.css"`
 This project should be visible via Port 3000 - `localhost:3000/index.html` (another port would be chosen automatically if port 3000 is already engaged)
 
-other portfolios
-[Toptal](https://www.toptal.com/designers/resume/oluwapelumi-adeyemi#)
-[Dribbble](https://dribbble.com/p31umi)
-[Behance](https://www.behance.net/PelumiAdeyemi)
+### other portfolios
+- [Toptal](https://www.toptal.com/designers/resume/oluwapelumi-adeyemi#)
+- [Dribbble](https://dribbble.com/p31umi)
+- [Behance](https://www.behance.net/PelumiAdeyemi)
 
 ## Credits
 [Masonry](http://masonry.desandro.com/) by David DeSandro.

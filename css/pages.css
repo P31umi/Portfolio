@@ -61,6 +61,10 @@ img{
     margin: 1em auto 0;
 }
 
+img .small{
+    width: 20vw;
+}
+
 .video-js{
     position: relative;
     display: block;
