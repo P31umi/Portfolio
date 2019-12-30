@@ -103,6 +103,13 @@ body {
 	backface-visibility: hidden;
 }
 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+	
+  }
+
 .isolayer--shadow .grid__item:hover .grid__link::before {
 	opacity: 0.2;
 	box-shadow: 0 0 20px 10px rgba(0,0,0,0.8);

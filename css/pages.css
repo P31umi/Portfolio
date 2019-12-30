@@ -23,6 +23,14 @@ body {
     overflow-x: hidden;
 }
 
+.mobile-only{
+    display: none;
+}
+
+.desktop-only{
+    display: block;
+}
+
 
 .closeButton{
     position: fixed;
@@ -141,6 +149,15 @@ article h4{
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
 
+
+    .mobile-only{
+        display: block;
+    }
+
+    .desktop-only{
+        display: none;
+    }
+
     .closeButton{
         right: 1em;
         top: 1em;
@@ -192,3 +209,4 @@ article h4{
 
 
 }
+

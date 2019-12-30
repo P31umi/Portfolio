@@ -15,6 +15,16 @@ body {
 	background: #141715;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	width: 60vw;
+	margin: 0 auto;
+}
+
+.desktop-only{
+	display: block;
+}
+
+.mobile-only{
+	display: none;
 }
 
 a {
@@ -344,6 +354,26 @@ a:hover, a:focus {
 	padding: 0.3em 0 0 0.3em;
 }
 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+
+    .mobile-only{
+        display: block;
+    }
+
+    .desktop-only{
+        display: none;
+	}
+
+	body{
+		width: 100vw;
+	margin: 0;
+	}
+}
+
 @media screen and (max-width: 50em) {
 	.pelumi-header {
 		width: 80%;
@@ -440,4 +470,30 @@ button:active, button:focus{
 .twitter button{
 	background: #0099cc;
 	border: none;
+}
+
+
+.desktop-view{
+	position: relative;
+	display: flex;
+	flex-flow: row;
+	flex-wrap: wrap;
+	top: 35vh;
+	width: 65vw;
+	margin: 0 auto;
+	height: fit-content;
+	overflow: hidden;
+}
+
+.portfolio-item{
+	margin: 2em;
+}
+
+.portfolio-item img{
+	width: 20em;
+}
+
+.desktop-view .item-title{
+	display: block;
+	color: #ffffff;
 }
