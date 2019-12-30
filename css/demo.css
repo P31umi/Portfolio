@@ -497,3 +497,23 @@ button:active, button:focus{
 	display: block;
 	color: #ffffff;
 }
+
+.copyright{
+	position: fixed;
+	display: block;
+	bottom: 1em;
+	margin-left: 2em;
+	opacity: 0.5;
+}
+
+.copyright:hover{
+	opacity: 1;
+}
+
+.copyright a{
+	position: fixed;
+	display: block;
+	bottom: 1em;
+	color: #ffffff;
+	z-index: 20;
+}
